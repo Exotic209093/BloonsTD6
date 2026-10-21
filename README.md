@@ -7,6 +7,8 @@ cash, upgrade your towers, and survive all **20 rounds**.
 
 No game engine, no runtime dependencies — just a canvas and ~1k lines of game logic.
 
+[![Bloons Tower Defense mid-round](docs/screenshot.png)](https://bloons-td-6-wheat.vercel.app)
+
 ## Gameplay
 
 - **Place towers** — click a tower in the shop (or press `1`–`6`), then click the
